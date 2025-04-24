@@ -4,7 +4,7 @@ I'm building cloud infrastructure and  ML projects to demonstrate senior-level c
 
 
 > [!NOTE] **Step by Step**  
-> These projects are all centered around a fictitious health care company with thousands of users, employees, and stakeholders  
+> These projects are all centered around a fictitious health care company called `CareMersh Health` with thousands of users, employees, and stakeholders  
 > it is meant to demonstrate and sharpen skills while remaining deplorable in a live environment with minor tweaks.
 
 
