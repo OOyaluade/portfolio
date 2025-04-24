@@ -8,7 +8,7 @@ I'm building public infrastructure & ML projects to demonstrate senior-level clo
 
 | Focus Area                                 | Description                                                                                                               |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
-| AWS CLI setup, IAM policies, Org structure | GitHub repo + video on secure multi-account design                                                                            |
+| AWS CLI setup, IAM policies, Org structure(https://github.com/OOyaluade/cloud-infra-bootstrapping) | GitHub repo + video on secure multi-account design                                                                            |
 | Modular VPC with Terraform                 | Terraform module with public/private subnets + NAT                                                                            |
 | S3 with versioning, KMS, access policies   | Terraform config + explainer diagram                                                                                          |
 | RDS MySQL in private subnets               | DB subnet groups, parameter tuning, secure access                                                                             |
