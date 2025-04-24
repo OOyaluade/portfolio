@@ -1,6 +1,14 @@
 # 👋 Hi, I’m Oluwadamilola Oyaluade
 
-I'm building public infrastructure & ML projects to demonstrate senior-level cloud, DevOps, and ML engineering capability.
+I'm building cloud infrastructure and  ML projects to demonstrate senior-level cloud, DevOps, and ML engineering capability.
+
+
+> [!NOTE] **Step by Step**  
+> These projects are all centered around a fictitious health care company with thousands of users, employees, and stakeholders  
+> it is meant to demonstrate and sharpen skills while remaining deplorable in a live environment with minor tweaks.
+
+
+
 # 🏥 Cloud Infra Bootstrapping for Healthcare Startup
 
 This repo sets up secure AWS cloud infrastructure for a healthcare-focused SaaS product.
