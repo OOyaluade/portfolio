@@ -1,6 +1,33 @@
 # 👋 Hi, I’m Oluwadamilola Oyaluade
 
 I'm building public infrastructure & ML projects to demonstrate senior-level cloud, DevOps, and ML engineering capability.
+# 🏥 Cloud Infra Bootstrapping for Healthcare Startup
+
+This repo sets up secure AWS cloud infrastructure for a healthcare-focused SaaS product.
+We will build everything using Terraform — from IAM to EKS to ML model deployment.
+
+---
+
+## 🧠 Enterprise Scenario: *CareMesh Health*
+
+**CareMesh Health** is a rapidly growing healthcare SaaS startup serving clinics and telehealth providers. They’re expanding from a single-region, single-account AWS setup into a secure, scalable, and regulated multi-account environment.
+
+### 👩‍⚕️ Core Business Needs:
+- HIPAA-compliant data storage & processing
+- CI/CD pipelines for rapid deployment of patient-facing web apps and ML services
+- A scalable architecture to support predictive analytics (e.g., patient no-shows, risk scoring)
+- Team-based access separation: Dev, ML, Security, Compliance, and Production
+- Cost transparency and control across business units
+
+### 🌐 Cloud Infrastructure Goals:
+1. **Multi-Account AWS Org** to isolate environments
+2. **Terraform Modules** for repeatable networking and services
+3. **EKS for App & ML Workloads** with GitHub Actions CI/CD
+4. **Centralized Logging & Monitoring** for operations and incident response
+5. **S3 + RDS + DynamoDB** as core data services
+6. **MLflow + FastAPI + Prometheus/Grafana** stack for machine learning operations
+7. **KMS, IAM SCPs, and GuardDuty** for security
+
 
 ## 🚀 Featured Projects
 
