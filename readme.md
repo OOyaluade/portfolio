@@ -8,12 +8,12 @@ Each module will come with:
 - 📽️ **Architecture walkthrough video**
 - 🖼️ **Infrastructure diagrams**
 - 📄 **Obsidian-friendly documentation**
-- 🔗 Shared across [GitHub](https://github.com/OOyaluade), [LinkedIn](https://www.linkedin.com/in/oluwadamilolaoyaluade), [YouTube](#), and [Twitter](#)
+- 🔗 Shared across [GitHub](https://github.com/OOyaluade), [LinkedIn](https://www.linkedin.com/in/oluwadamilolaoyaluade), [YouTube](https://www.youtube.com/@i_build_and_break_things), and [Twitter](#)
 ---
 
 > [!NOTE] **Step by Step**  
 > These projects are all centered around a fictitious health care company called `CareMersh Health` with thousands of users, employees, and stakeholders  
-> The goal is to simulate real-world cloud architecture while demonstrating expertise in scalable and complying infrastructure.
+> The goal is to simulate real-world cloud architecture while demonstrating expertise in scalable and compliant infrastructure.
 
 ---
 
