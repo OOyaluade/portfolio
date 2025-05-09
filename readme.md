@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Oluwadamilola Oyaluade
 
-I'm building **Cloud Infrastructure** and **ML Systems** to demonstrate senior-level **Cloud, DevOps, and ML engineering** expertise.
+I'm building **Cloud Infrastructure** and **ML Systems** to demonstrate expertise.
 ## 📺 Learn Along with Me (coming soon!!!)
 
 Each module will come with:
